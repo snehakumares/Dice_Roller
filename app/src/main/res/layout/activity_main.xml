@@ -57,7 +57,8 @@
                 android:layout_width="135dp"
                 android:layout_height="160dp"
                 android:layout_gravity="center_horizontal"
-                android:src="@drawable/dice_1" />
+                android:src="@drawable/empty_dice"
+                tools:src="@drawable/dice_1"/>
 
         </LinearLayout>
 
